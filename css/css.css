@@ -1,0 +1,29 @@
+body {}
+#title {
+  text-align: center;
+  padding: 10px;
+  background-color: #c9c9c9;
+  border-radius: 10px;
+}
+#feature_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#video {
+  text-align: center;
+}
+.container_12 {
+  background-color: #89bdd3;
+  padding: 50px;
+  border-radius: 15px;
+}
+.caption {
+  z-index:100;
+    position:absolute;
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+}
